@@ -55,14 +55,14 @@ global.owner = [
 global.autoketik = true //status auto mengetik (auto typing)
 global.available = true //status online (online)
 // Other
-global.mods = ['6283863727401']
-global.prems = ['6283863727401']
-global.nomorbot = '6283863727740'
-global.nameown = 'PutraModz'
-global.nomorown = '6283863727401'
-global.nomorown1 = '6282214729677'
-global.nomorown2 = '6282214729677'
-global.nomorwa = '082214729677'
+global.mods = ['6283836042943']
+global.prems = ['6283836042943']
+global.nomorbot = '6283836042943'
+global.nameown = 'Exsaudia'
+global.nomorown = '6283836042943'
+global.nomorown1 = '6283836042943'
+global.nomorown2 = '6283836042943'
+global.nomorwa = '083836042943'
 global.limitawal = {
 
     premium: "Infinity",
@@ -74,49 +74,49 @@ global.limitawal = {
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.gcname = 'Amelia MD'//nama group kalian
-global.author = 'PutraModz' //ganti aja cuyyy
-global.namebot = '​Amelia-Md' //nama bot luh
-global.wm = '© Amelia-Md' //ganti aja
-global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg' //bebas
-global.wm = 'Amelia-Md ' //wm nyaa kocak
+global.gcname = 'mus'//nama group kalian
+global.author = 'musXju' //ganti aja cuyyy
+global.namebot = 'juan' //nama bot luh
+global.wm = 'exju' //ganti aja
+global.media = '-' //bebas
+global.wm = 'exju' //wm nyaa kocak
 global.watermark = wm //bebas
-global.wm2 = 'PutraModz' //ganti ajaa
-global.wm3 = 'Amelia Botz by PutraModz' // ganti jugaa
+global.wm2 = 'exju' //ganti ajaa
+global.wm3 = 'exju' // ganti jugaa
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`//ga usah dehhh 
 global.bottime = `T I M E : ${wktuwib}` //ini juga ga usah 
-global.titlebot = `Amelia-Md | PutraModz` //ganti aja
-global.stickpack = 'Amelia-Modz' //ganti 
-global.stickauth = `© Amelia-Md` //gantii 
+global.titlebot = `exju` //ganti aja
+global.stickpack = 'exju' //ganti 
+global.stickauth = `exju` //gantii 
 global.week = `${week} ${date}` //Gak usah
 global.wibb = `${wktuwib}` // Gak usah 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= 'Amelia Putri septiany' //ganti 
-global.nameown2 = 'PutraModz' //ganti 
+global.nameown1= 'exsaudia' //ganti 
+global.nameown2= 'exsauida' //ganti 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Tunggu Sebentar Kak...'
-global.lynk = 'https://chat.whatsapp.com/FR1KfE3OTcQCayiabos8Ff'//ganti jadi link gc luh
+global.lynk = '-jadi link gc luh
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://instagram.com/l4c1f2r' //ganti jadi ig mu
-global.sgh = 'https://github.com/Lucife-Putra' //github
-global.sgc = 'https://chat.whatsapp.com/FR1KfE3OTcQCayiabos8Ff' //group whatsapp
-global.gcwangsaf = 'https://chat.whatsapp.com/FR1KfE3OTcQCayiabos8Ff' //Group wa juga 
-global.fakeyt = 'https://youtu.be/dTNrtQagzmc' //Yt jika punya
+global.sig = '-' //ganti jadi ig mu
+global.sgh = '-' //github
+global.sgc = '-' //group whatsapp
+global.gcwangsaf = '-' //Group wa juga 
+global.fakeyt = '-' //Yt jika punya
 global.sdc = '-' //discord klo ga punya ga usah biarin aja
-global.sfb = 'https://www.facebook.com/' // facebook
-global.snh = 'https://youtube.com/@Putra_Modz_' //yt klo punya 
-global.wame = 'https://api.whatsapp.com/send?phone=+6283863727401' //Tautan Wa Kalian
+global.sfb = '-' // facebook
+global.snh = '-' //yt klo punya 
+global.wame = 'wa.me/+6283836042943' //Tautan Wa Kalian
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '083864727401' //Isi aja klo punya 
+global.pdana = '085721354560' //Isi aja klo punya 
 global.povo = '-' //Isi Aja klo punya 
-global.pgopay = '082214729677' //Isi aja klo punya 
+global.pgopay = '085721354560' //Isi aja klo punya 
 global.plinkaja = '-' //link aja,isi Klo punya
-global.ppulsa = '083863727401' //Isi aja klo punya 
-global.ppulsa2 = '082214729677' //Isi aja klo punya 
-global.psaweria = 'https://telegra.ph/file/98338a583efeb3d34a70b.jpg' //Ganti aja ini Link gambar QR
+global.ppulsa = '085721354560' //Isi aja klo punya 
+global.ppulsa2 = '085721354560' //Isi aja klo punya 
+global.psaweria = '-' //Ganti aja ini Link gambar QR
 
 //bebas cuyyy yg atas mahh 
 
@@ -160,8 +160,8 @@ global.md = '_In progress, please wait..._'
 global.benar = '𝙶𝚘𝚘𝚍 𝙹𝚘𝚋𝚋! ◕◡◕'
 global.salah = '𝙽𝚘𝚝 𝙱𝚊𝚍! ◕◠◕'
 global.dikit = "𝙳𝚒𝚔𝚒𝚝 𝙻𝚊𝚐𝚒,𝚂𝚎𝚖𝚊𝚗𝚐𝚊𝚝!!"
-global.syt = 'https://youtube.com/@Putra_Modz_' //youtube
-global.sytv = 'https://youtu.be/7JDmbvzJM1c'//link video yt
+global.syt = '-' //youtube
+global.sytv = '- video yt
 global.packname = wm
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ RPG GAME ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
